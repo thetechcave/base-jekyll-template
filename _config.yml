@@ -90,3 +90,5 @@ types:
   - Video
 
 _comments:
+
+theme: jekyll-theme-midnight
